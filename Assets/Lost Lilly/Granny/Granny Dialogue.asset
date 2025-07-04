@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2108ff9ef2c0cbd4c8fd5c005c6b51d7, type: 3}
+  m_Name: Granny Dialogue
+  m_EditorClassIdentifier: 
+  npcName: Velha
+  dialogueLines:
+  - "Voc\xEA... \xC9! Voc\xEA mesmo, garotinha cheia de luz!!"
+  - "Tu n\xE3o deves ficar aqui. N\xE3o at\xE9 o anoitecer... sen\xE3o, sua luz..."
+  typingSpeed: 0.05
+  autoProgressLines: 0100
+  autoProgressDelay: 1.5
